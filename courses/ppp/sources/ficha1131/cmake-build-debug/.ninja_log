@@ -1,0 +1,5 @@
+# ninja log v5
+321	754	1680173182636568100	ficha1131.exe	14c2e8b10ed64c41
+3	320	1680173182210777800	CMakeFiles/ficha1131.dir/main.c.o	fd4bf4de71d292d8
+0	79	0	clean	c1c8cf7f831b5c4a
+32	248	1679766035861894800	CMakeFiles/ficha1131.dir/myQueue.c.o	cf0ba693ae2f7a82

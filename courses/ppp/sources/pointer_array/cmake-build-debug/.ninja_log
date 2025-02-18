@@ -1,0 +1,5 @@
+# ninja log v5
+0	77	6700059733917442	CMakeFiles/pointer_array.dir/main.c.obj	faa9a7d85554068b
+78	173	6700059734822921	pointer_array.exe	3cc5e12595c8a7ea
+2	73	6700068844846486	CMakeFiles/pointer_array.dir/main.c.obj	faa9a7d85554068b
+73	171	6700068845693425	pointer_array.exe	3cc5e12595c8a7ea

@@ -1,0 +1,5 @@
+# ninja log v5
+0	227	1679229375748199800	CMakeFiles/exampleRealloc.dir/main.c.o	bceb51052c8d21a3
+233	540	1679229376052584700	exampleRealloc.exe	2d7ca7bbdb931e74
+2	213	1679572069693546600	CMakeFiles/exampleRealloc.dir/main.c.o	bceb51052c8d21a3
+214	508	1679572069996804200	exampleRealloc.exe	2d7ca7bbdb931e74

@@ -1,0 +1,15 @@
+# ninja log v5
+0	70	6701866330934119	CMakeFiles/structExample.dir/main.c.obj	28c77a34dab2c1c1
+71	173	6701866331893646	structExample.exe	f03f2d42b6e7e18b
+1	78	6701870948245832	CMakeFiles/structExample.dir/main.c.obj	28c77a34dab2c1c1
+79	169	6701870949077647	structExample.exe	f03f2d42b6e7e18b
+2	69	6701871383252162	CMakeFiles/structExample.dir/main.c.obj	28c77a34dab2c1c1
+70	150	6701871383988023	structExample.exe	f03f2d42b6e7e18b
+2	141	6702638897819105	CMakeFiles/structExample.dir/main.c.obj	28c77a34dab2c1c1
+142	337	6702638899694250	structExample.exe	f03f2d42b6e7e18b
+3	151	6702639937712365	CMakeFiles/structExample.dir/main.c.obj	28c77a34dab2c1c1
+165	333	6702639939389799	structExample.exe	f03f2d42b6e7e18b
+1	100	6702775229877481	CMakeFiles/structExample.dir/main.c.obj	28c77a34dab2c1c1
+100	216	6702775230944389	structExample.exe	f03f2d42b6e7e18b
+1	77	6702783592751742	CMakeFiles/structExample.dir/main.c.obj	28c77a34dab2c1c1
+77	173	6702783593591521	structExample.exe	f03f2d42b6e7e18b

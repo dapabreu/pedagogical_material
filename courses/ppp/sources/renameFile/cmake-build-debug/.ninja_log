@@ -1,0 +1,11 @@
+# ninja log v5
+1	147	6740832186166241	CMakeFiles/renameFile.dir/main.c.obj	b5de2f2713e07f5e
+159	330	6740832187913944	renameFile.exe	88141d4ce472ded1
+2	139	6740833578636983	CMakeFiles/renameFile.dir/main.c.obj	b5de2f2713e07f5e
+140	330	6740833580209644	renameFile.exe	88141d4ce472ded1
+3	135	6740834625066336	CMakeFiles/renameFile.dir/main.c.obj	b5de2f2713e07f5e
+136	324	6740834626795479	renameFile.exe	88141d4ce472ded1
+3	134	6740834901927470	CMakeFiles/renameFile.dir/main.c.obj	b5de2f2713e07f5e
+136	306	6740834903486885	renameFile.exe	88141d4ce472ded1
+2	164	6740835170403156	CMakeFiles/renameFile.dir/main.c.obj	b5de2f2713e07f5e
+177	351	6740835172070714	renameFile.exe	88141d4ce472ded1

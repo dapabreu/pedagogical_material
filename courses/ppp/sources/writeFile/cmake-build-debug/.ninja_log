@@ -1,0 +1,15 @@
+# ninja log v5
+0	86	6735436809257680	CMakeFiles/writeFile.dir/main.c.obj	4cf835afcc5594c4
+88	208	6735436810364684	writeFile.exe	e6f248f3206c45d6
+2	83	6735437370011469	CMakeFiles/writeFile.dir/main.c.obj	4cf835afcc5594c4
+84	185	6735437370898858	writeFile.exe	e6f248f3206c45d6
+3	156	6738939963446949	CMakeFiles/writeFile.dir/main.c.obj	4cf835afcc5594c4
+158	358	6738939965449448	writeFile.exe	e6f248f3206c45d6
+2	165	6738940681971212	CMakeFiles/writeFile.dir/main.c.obj	4cf835afcc5594c4
+166	345	6738940683740089	writeFile.exe	e6f248f3206c45d6
+2	78	6739082912006937	CMakeFiles/writeFile.dir/main.c.obj	4cf835afcc5594c4
+78	170	6739082912701879	writeFile.exe	e6f248f3206c45d6
+1	80	6739083443828010	CMakeFiles/writeFile.dir/main.c.obj	4cf835afcc5594c4
+80	181	6739083444723585	writeFile.exe	e6f248f3206c45d6
+1	106	6739084137187830	CMakeFiles/writeFile.dir/main.c.obj	4cf835afcc5594c4
+106	200	6739084138277361	writeFile.exe	e6f248f3206c45d6

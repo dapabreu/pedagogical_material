@@ -1,0 +1,9 @@
+# Links to VMs arm (Apple MX)
+# user: root pass: password
+# user: uservm pass: password
+
+# Debian 12 base without GUI
+https://drive.google.com/file/d/1VViHjcWBU-3hCSz9XTAtM4NI7ux3bPLT/view?usp=sharing
+
+# Debian 12 base with GUI - Xfce
+https://drive.google.com/file/d/1VOOjufZIkqUZ47VW6MM1b-kQ7YgcrEDZ/view?usp=sharing

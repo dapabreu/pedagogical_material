@@ -1,0 +1,2 @@
+In this program, we create a new file program.bin and after that read the same file (program.bin) and loop through the
+records one by one.

@@ -1,0 +1,3 @@
+C:/Users/David Perez Abreu/Sources/Teaching/PPP/switch_calculator/cmake-build-debug/CMakeFiles/switch_calculator.dir
+C:/Users/David Perez Abreu/Sources/Teaching/PPP/switch_calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/David Perez Abreu/Sources/Teaching/PPP/switch_calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir

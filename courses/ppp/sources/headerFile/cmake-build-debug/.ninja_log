@@ -1,0 +1,6 @@
+# ninja log v5
+1	69	6701887798204652	CMakeFiles/headerFile.dir/main.c.obj	a7d02f568c87301a
+70	156	6701887798995840	headerFile.exe	7c0e082e74e8797e
+6	70	6701889267368520	CMakeFiles/headerFile.dir/calculateAge.c.obj	bf6baa42b285477e
+1	74	6701889267434870	CMakeFiles/headerFile.dir/main.c.obj	a7d02f568c87301a
+74	161	6701889268235532	headerFile.exe	97713e6295009f8a

@@ -1,0 +1,11 @@
+# ninja log v5
+0	78	6688002704264639	CMakeFiles/sum2matrices.dir/main.c.obj	b9e4ecee2b9f042e
+79	172	6688002705113542	sum2matrices.exe	49a9f083123accb1
+1	71	6688002959825944	CMakeFiles/sum2matrices.dir/main.c.obj	b9e4ecee2b9f042e
+72	162	6688002960662352	sum2matrices.exe	49a9f083123accb1
+2	70	6688003992785900	CMakeFiles/sum2matrices.dir/main.c.obj	b9e4ecee2b9f042e
+71	166	6688003993674784	sum2matrices.exe	49a9f083123accb1
+2	71	6688004451478177	CMakeFiles/sum2matrices.dir/main.c.obj	b9e4ecee2b9f042e
+72	165	6688004452341217	sum2matrices.exe	49a9f083123accb1
+1	71	6688005290631635	CMakeFiles/sum2matrices.dir/main.c.obj	b9e4ecee2b9f042e
+72	164	6688005291472523	sum2matrices.exe	49a9f083123accb1

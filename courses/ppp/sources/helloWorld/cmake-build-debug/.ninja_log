@@ -1,0 +1,4 @@
+# ninja log v5
+24	558	6666221748990606	build.ninja	9807fa7d5af7c874
+1	229	6665396746657081	CMakeFiles/helloWorld.dir/main.c.obj	8b6c8a58bed3e186
+231	537	6665396749599195	helloWorld.exe	6a152f409ac095b6

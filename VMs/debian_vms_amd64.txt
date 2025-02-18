@@ -1,0 +1,6 @@
+# Links to VMs amd64
+# user: root pass: password
+# user: uservm pass: password
+
+# Debian 12 base without GUI
+https://drive.google.com/file/d/1WAwtQ3WeIAEpOu1rR_l6cD8Z2DGunwBW/view?usp=sharing

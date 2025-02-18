@@ -1,0 +1,11 @@
+# ninja log v5
+0	92	6689857206226667	CMakeFiles/array_automatic_static.dir/main.c.obj	6a009f5f0d544b6a
+93	186	6689857207105332	array_automatic_static.exe	28023accaa53339c
+2	71	6689861496961012	CMakeFiles/array_automatic_static.dir/main.c.obj	6a009f5f0d544b6a
+71	170	6689861497824160	array_automatic_static.exe	28023accaa53339c
+5	219	6692371818776304	CMakeFiles/array_automatic_static.dir/main.c.obj	6a009f5f0d544b6a
+220	490	6692371821185135	array_automatic_static.exe	28023accaa53339c
+2	184	6692439843320631	CMakeFiles/array_automatic_static.dir/main.c.obj	6a009f5f0d544b6a
+186	349	6692439844791832	array_automatic_static.exe	28023accaa53339c
+4	114	6692440905368832	CMakeFiles/array_automatic_static.dir/main.c.obj	6a009f5f0d544b6a
+115	242	6692440906485142	array_automatic_static.exe	28023accaa53339c

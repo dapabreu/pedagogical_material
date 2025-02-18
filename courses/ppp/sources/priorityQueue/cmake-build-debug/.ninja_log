@@ -1,0 +1,26 @@
+# ninja log v5
+2	285	1681403893539790000	CMakeFiles/priorityQueue.dir/main.c.o	3fff18bacb949808
+3	232	1681402694030414900	CMakeFiles/priorityQueue.dir/myQueue.c.o	9f50c9abe6479377
+286	529	1681403893775774500	priorityQueue.exe	809aa87d59dba070
+0	73	0	clean	c1c8cf7f831b5c4a
+2	614	1683737824905579900	build.ninja	4197ffb0fddcca10
+0	68	0	clean	c1c8cf7f831b5c4a
+33	363	1683737826772434000	CMakeFiles/priorityQueue.dir/myQueue.c.o	9f50c9abe6479377
+4	454	1683737826862604100	CMakeFiles/priorityQueue.dir/main.c.o	3fff18bacb949808
+454	749	1683737827165440700	priorityQueue.exe	809aa87d59dba070
+1	79	0	clean	c1c8cf7f831b5c4a
+5	321	1683739045358474800	CMakeFiles/priorityQueue.dir/main.c.o	3fff18bacb949808
+39	344	1683739045382974000	CMakeFiles/priorityQueue.dir/myQueue.c.o	9f50c9abe6479377
+376	732	1683739045758004700	priorityQueue.exe	809aa87d59dba070
+7	437	1683806086175017100	CMakeFiles/priorityQueue.dir/main.c.o	3fff18bacb949808
+437	836	1683806086560826500	priorityQueue.exe	809aa87d59dba070
+5	284	1683806117356929500	CMakeFiles/priorityQueue.dir/myQueue.c.o	9f50c9abe6479377
+285	607	1683806117673189000	priorityQueue.exe	809aa87d59dba070
+4	247	1683806149723782200	CMakeFiles/priorityQueue.dir/myQueue.c.o	9f50c9abe6479377
+248	567	1683806150034011200	priorityQueue.exe	809aa87d59dba070
+4	799	1685457593795858000	CMakeFiles/priorityQueue.dir/myQueue.c.o	9f50c9abe6479377
+800	1398	1685457594385091800	priorityQueue.exe	809aa87d59dba070
+6	302	1685457678097306100	CMakeFiles/priorityQueue.dir/myQueue.c.o	9f50c9abe6479377
+304	683	1685457678477944200	priorityQueue.exe	809aa87d59dba070
+4	391	1685457738428321100	CMakeFiles/priorityQueue.dir/main.c.o	3fff18bacb949808
+392	781	1685457738811352500	priorityQueue.exe	809aa87d59dba070

@@ -1,0 +1,3 @@
+/cygdrive/d/david/Sources/Teaching/PPP/ideExample/cmake-build-debug/CMakeFiles/ideExample.dir
+/cygdrive/d/david/Sources/Teaching/PPP/ideExample/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/david/Sources/Teaching/PPP/ideExample/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/cygdrive/d/david/Sources/Teaching/PPP/ficha711v2/cmake-build-debug/CMakeFiles/ficha711v2.dir
+/cygdrive/d/david/Sources/Teaching/PPP/ficha711v2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/david/Sources/Teaching/PPP/ficha711v2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

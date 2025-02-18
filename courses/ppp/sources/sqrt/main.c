@@ -1,0 +1,80 @@
+#include<stdio.h>
+
+int main() {
+    int number=-1, i=0, x=1, j=0;
+
+    printf("Insira um numero inteiro:");
+    scanf("%d",&number);
+    if(number<0){
+        printf("O numero introduzido deve ser positivo.");
+        return -1;
+    }
+    while(1){
+        i = i + 1;
+        x = (number / x + x) / 2;
+        ++j;
+        if (i == number + 1)
+            break;
+    }
+    printf("x e igual a %d",x);
+    return 0;
+}
+
+/*
+/ C program to calculate square root
+#include <stdio.h>
+
+// Function to find the square-root of N
+float findSQRT(int number){
+    int start= 0, end= number;
+    int mid;
+
+    // To store the answer
+    float ans;
+    // To find integral part of square root of number
+    while (start<=end) {
+        // Find mid
+        mid= (start+end)/2;
+
+        // If number is perfect square then break
+        if (mid*mid==number){
+            ans= mid;
+            break;
+        }
+
+        // Increment start if integral part lies on right side of the mid
+        if (mid*mid<number){
+          //first start value should be added to answer
+            ans= start;
+          //then start should be changed
+            start= mid+1;
+        }
+
+        // Decrement end if integral part lies on the left side of the mid
+        else {
+            end= mid-1;
+        }
+    }
+    // To find the fractional part of square root upto 5 decimal
+    float increment= 0.1;
+    for (int i= 0; i < 5; i++){
+        while (ans*ans <= number)
+            ans += increment;
+        // Loop terminates, when ans * ans > number
+        ans=ans-increment;
+        increment= increment/10;
+    }
+    return ans;
+}
+
+// Driver Code
+int main(){
+    // Given number
+    int n;
+    printf("Number is:");
+    scanf("%d", &n);
+    // Function call
+    printf("%f ", findSQRT(n));
+    return 0;
+}
+*/

@@ -1,0 +1,4 @@
+# ninja log v5
+189	472	1679156335394307100	pointerExampleFunction.exe	9acb2c8ea247e94a
+6	360	1679229228422867900	build.ninja	7defadeb198c05d0
+1	185	1679156335111762300	CMakeFiles/pointerExampleFunction.dir/main.c.o	e5749ede5c45cfd8

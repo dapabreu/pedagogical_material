@@ -1,0 +1,8 @@
+# ninja log v5
+7	82	6720697108920642	CMakeFiles/arrayQueue2.dir/main.c.obj	3668f26a1b068730
+1	159	6722445307230419	build.ninja	214bdc6743be4000
+2	83	6720697108930739	CMakeFiles/arrayQueue2.dir/myQueue.c.obj	9b9db4a0af9aa92a
+83	174	6720697109757034	arrayQueue2.exe	f666baee8f461bec
+2	183	6722584385939468	CMakeFiles/arrayQueue2.dir/main.c.obj	3668f26a1b068730
+21	187	6722584386014468	CMakeFiles/arrayQueue2.dir/myQueue.c.obj	9b9db4a0af9aa92a
+187	401	6722584388030645	arrayQueue2.exe	f666baee8f461bec

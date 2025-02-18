@@ -1,0 +1,5 @@
+# ninja log v5
+8	358	1679305167898891600	build.ninja	501fdc86945fe5d2
+0	66	0	clean	c1c8cf7f831b5c4a
+2	215	1679165930098686100	CMakeFiles/dec2bin.dir/main.c.o	8daaca4babb50dd
+215	469	1679165930346483700	dec2bin.exe	31071e242c4acfdc

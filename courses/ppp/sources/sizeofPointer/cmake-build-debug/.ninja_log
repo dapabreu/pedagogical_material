@@ -1,0 +1,9 @@
+# ninja log v5
+1	67	6700050462222558	CMakeFiles/sizeofPointer.dir/main.c.obj	2e85026c5f09970c
+67	149	6700050462976615	sizeofPointer.exe	3a25cc1a442262a0
+1	71	6700050666192770	CMakeFiles/sizeofPointer.dir/main.c.obj	2e85026c5f09970c
+72	157	6700050666970228	sizeofPointer.exe	3a25cc1a442262a0
+2	65	6700050910271161	CMakeFiles/sizeofPointer.dir/main.c.obj	2e85026c5f09970c
+65	148	6700050911047316	sizeofPointer.exe	3a25cc1a442262a0
+3	118	6704433468179431	CMakeFiles/sizeofPointer.dir/main.c.obj	2e85026c5f09970c
+119	270	6704433469424789	sizeofPointer.exe	3a25cc1a442262a0

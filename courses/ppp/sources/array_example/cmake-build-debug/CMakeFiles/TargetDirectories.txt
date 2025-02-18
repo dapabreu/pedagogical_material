@@ -1,0 +1,3 @@
+C:/Users/david/Sources/Teaching/PPP/array_example/cmake-build-debug/CMakeFiles/array_example.dir
+C:/Users/david/Sources/Teaching/PPP/array_example/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/david/Sources/Teaching/PPP/array_example/cmake-build-debug/CMakeFiles/rebuild_cache.dir

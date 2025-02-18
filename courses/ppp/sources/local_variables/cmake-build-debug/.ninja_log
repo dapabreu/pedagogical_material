@@ -1,0 +1,25 @@
+# ninja log v5
+1	69	6682091460061743	CMakeFiles/local_variables.dir/main.c.obj	740c0f170775b8fe
+70	157	6682091460748316	local_variables.exe	955a1e53e6abcbba
+2	66	6682091687581206	CMakeFiles/local_variables.dir/main.c.obj	740c0f170775b8fe
+66	156	6682091688338669	local_variables.exe	955a1e53e6abcbba
+1	66	6682092055876573	CMakeFiles/local_variables.dir/main.c.obj	740c0f170775b8fe
+67	150	6682092056576380	local_variables.exe	955a1e53e6abcbba
+1	73	6682094840459330	CMakeFiles/local_variables.dir/main.c.obj	740c0f170775b8fe
+73	159	6682094841214794	local_variables.exe	955a1e53e6abcbba
+1	72	6682095362844057	CMakeFiles/local_variables.dir/main.c.obj	740c0f170775b8fe
+73	163	6682095363661835	local_variables.exe	955a1e53e6abcbba
+2	130	6684541491980873	CMakeFiles/local_variables.dir/main.c.obj	740c0f170775b8fe
+131	267	6684541493126571	local_variables.exe	955a1e53e6abcbba
+2	115	6684542896365079	CMakeFiles/local_variables.dir/main.c.obj	740c0f170775b8fe
+116	278	6684542897758272	local_variables.exe	955a1e53e6abcbba
+3	111	6684543598686145	CMakeFiles/local_variables.dir/main.c.obj	740c0f170775b8fe
+112	281	6684543600212828	local_variables.exe	955a1e53e6abcbba
+2	114	6684543886740139	CMakeFiles/local_variables.dir/main.c.obj	740c0f170775b8fe
+115	279	6684543888156246	local_variables.exe	955a1e53e6abcbba
+3	117	6684683571756536	CMakeFiles/local_variables.dir/main.c.obj	740c0f170775b8fe
+118	274	6684683573110452	local_variables.exe	955a1e53e6abcbba
+2	120	6684684409138291	CMakeFiles/local_variables.dir/main.c.obj	740c0f170775b8fe
+121	292	6684684410692539	local_variables.exe	955a1e53e6abcbba
+3	107	6684685766566553	CMakeFiles/local_variables.dir/main.c.obj	740c0f170775b8fe
+108	257	6684685767889180	local_variables.exe	955a1e53e6abcbba
