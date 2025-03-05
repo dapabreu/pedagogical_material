@@ -3,4 +3,9 @@
 # user: uservm pass: password
 
 # Debian 12 base without GUI
-https://drive.google.com/file/d/1WAwtQ3WeIAEpOu1rR_l6cD8Z2DGunwBW/view?usp=sharing
+https://drive.google.com/file/d/14NHC3Tnb4V6l1vrqz1S5kHBHwB6PrM8m/view?usp=sharing
+
+# Debian 12 base with GUI (LXQt)
+https://drive.google.com/file/d/1B8G2s5xwUIXoOor6QCwHYZnoh2HV1-HR/view?usp=sharing
+
+

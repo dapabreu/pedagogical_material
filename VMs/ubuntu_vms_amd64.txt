@@ -1,5 +1,0 @@
-# Links to VMs amd64
-# user: user pass: password
-
-# Ubuntu base with GUI -  LXQt
-https://drive.google.com/file/d/1UH-cY2e6TdAFNfWh7kK7ZEzD1fP3X4II/view?usp=sharing

@@ -1,3 +1,0 @@
-C:/Users/david/Sources/Teaching/PPP/ficha711/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/david/Sources/Teaching/PPP/ficha711/cmake-build-debug/CMakeFiles/ficha711.dir
-C:/Users/david/Sources/Teaching/PPP/ficha711/cmake-build-debug/CMakeFiles/edit_cache.dir

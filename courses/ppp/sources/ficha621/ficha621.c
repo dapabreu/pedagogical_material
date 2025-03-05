@@ -29,6 +29,7 @@ int main (){
         }
     }
     
+    printf ("\n");
     printf ("String normal: %s\n", s);
     printf("String Codificada: %s\n", codificado);
     return 0;
