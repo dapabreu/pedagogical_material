@@ -1,7 +1,3 @@
-//
-// Created by david on 21/04/2022.
-//
-
 #ifndef FICHA1111_MYQUEUE_H
 #define FICHA1111_MYQUEUE_H
 
@@ -26,4 +22,4 @@ void destroyQueue(typeQueue *queue);
 void addItem(typeQueue *queue, struct myItem item);
 struct myItem removeItem(typeQueue *queue);
 
-#endif //FICHA1111_MYQUEUE_H
+#endif

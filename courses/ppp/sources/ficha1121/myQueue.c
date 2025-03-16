@@ -1,7 +1,3 @@
-//
-// Created by david on 25/04/2022.
-//
-
 #include <stdlib.h>
 #include "myQueue.h"
 
@@ -44,11 +40,13 @@ void addItem(typeQueue *queue, struct myItem item){
 struct myItem removeItem(typeQueue *queue){
     itemQueue *temp_ptr;
     struct myItem item = {1, 0};
-    temp_ptr = queue->first;
-    item = temp_ptr->myItemQueue;
-    queue->first = queue->first->next;
-    if(emptyQueue(queue))
-        queue->last = NULL;
-    free(temp_ptr);
+    if(emptyQueue(queue)){
+        temp_ptr = queue->first;
+        item = temp_ptr->myItemQueue;
+        queue->first = queue->first->next;
+        if(emptyQueue(queue))
+            queue->last = NULL;
+        free (temp_ptr);
+    }
     return (item);
 }
